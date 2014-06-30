@@ -1,6 +1,6 @@
 <?php
 // Início do arquivo funcoes.php
 
-functio teste(){
+function teste(){
 	return TRUE;
 }
