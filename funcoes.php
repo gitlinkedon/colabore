@@ -3,4 +3,7 @@
 
 function teste(){
 	return TRUE;
+	
+	function teste2(){
+	return TRUE;
 }
